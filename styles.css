@@ -11,14 +11,15 @@ body {
     background: #ccffdd;
     height: 100vh;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    
 }
 
 .container {
     width: 100%;
     display: flex;
     padding: 0 20px;
+    justify-content: center;
+    align-items: center;
 }
 
 .slide {
